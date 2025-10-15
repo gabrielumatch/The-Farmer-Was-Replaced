@@ -6,12 +6,12 @@
 <line-height=50%><size=32px>Programação
 </size>
 </line-height>
-<u><link="docs/scripting/break.md">Break</link></u>      <u><link="docs/scripting/debug.md">Depuração</link></u>      <u><link="docs/scripting/comments.md">Comentários</link></u>      <u><link="docs/scripting/continue.md">Continue</link></u>      <u><link="docs/scripting/for.md">Loop For</link></u>      <u><link="docs/scripting/if.md">If</link></u>      <u><link="docs/scripting/operators.md">Operadores</link></u>      <u><link="docs/scripting/while.md">Loop While</link></u>      
+<u><link="docs/scripting/break.md">Break</link></u>      <u><link="docs/scripting/debug.md">Depuração</link></u>      <u><link="docs/scripting/comments.md">Comentários</link></u>      <u><link="docs/scripting/continue.md">Continue</link></u>      <u><link="docs/scripting/for.md">Loop For</link></u>      <u><link="docs/scripting/functions.md">Funções</link></u>      <u><link="docs/scripting/if.md">If</link></u>      <u><link="docs/scripting/operators.md">Operadores</link></u>      <u><link="docs/scripting/scopes.md">Escopos de Nomes</link></u>      <u><link="docs/scripting/tuples.md">Tuplas</link></u>      <u><link="docs/scripting/variables.md">Variáveis</link></u>      <u><link="docs/scripting/while.md">Loop While</link></u>      
 
 <line-height=50%><size=32px>Desbloqueios
 </size>
 </line-height>
-<u><link="docs/unlocks/carrots.md">Carrots</link></u>      <u><link="docs/scripting/debug.md">Debug</link></u>      <u><link="docs/unlocks/expand_1.md">Expand</link></u>      <u><link="docs/unlocks/expand_2.md">Expand_2</link></u>      <u><link="unlocks/grass">Grass</link></u>      <u><link="docs/unlocks/hats.md">Hats</link></u>      <u><link="docs/scripting/while.md">Loops</link></u>      <u><link="docs/scripting/operators.md">Operators</link></u>      <u><link="docs/unlocks/plant.md">Plant</link></u>      <u><link="docs/unlocks/senses.md">Senses</link></u>      <u><link="docs/unlocks/speed.md">Speed</link></u>      
+<u><link="docs/unlocks/carrots.md">Carrots</link></u>      <u><link="docs/scripting/debug.md">Debug</link></u>      <u><link="docs/unlocks/expand_1.md">Expand</link></u>      <u><link="docs/unlocks/expand_2.md">Expand_2</link></u>      <u><link="docs/scripting/functions.md">Functions</link></u>      <u><link="unlocks/grass">Grass</link></u>      <u><link="docs/unlocks/hats.md">Hats</link></u>      <u><link="docs/scripting/while.md">Loops</link></u>      <u><link="docs/scripting/operators.md">Operators</link></u>      <u><link="docs/unlocks/plant.md">Plant</link></u>      <u><link="docs/unlocks/senses.md">Senses</link></u>      <u><link="docs/unlocks/speed.md">Speed</link></u>      <u><link="docs/scripting/variables.md">Variables</link></u>      
 
 <line-height=50%><size=32px>Funções Nativas
 </size>
